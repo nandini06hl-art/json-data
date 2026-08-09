@@ -1,9 +1,32 @@
 {
-  "posts": [
+  "credit-scroes": [
+  {
+  "userId": "12345",
+  "name": "Aravinda Kumar",
+  "creditScore": 580,
+  "scoreRange": {
+    "min": 300,
+    "max": 850
+  },
+  "riskLevel": "High",
+  "lastUpdated": "2026-08-09T14:25:00",
+  "recommendations": [
+    "Pay bills on time",
+    "Reduce credit card utilization",
+    "Avoid new loan applications"
+  ],
+  "history": [
     {
-      "id": 1,
-      "title": "hello"
+      "date": "2026-07-01",
+      "score": 600
+    },
+    {
+      "date": "2026-06-01",
+      "score": 620
     }
+  ]
+}
+
   ],
   "profile": {
     "name": "typicode"
