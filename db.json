@@ -1,6 +1,7 @@
 {
   "posts": [
   {
+    "id":1,
   "userId": "12345",
   "name": "Aravinda Kumar",
   "creditScore": 580,
